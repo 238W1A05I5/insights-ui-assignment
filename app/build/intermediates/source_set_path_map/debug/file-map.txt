@@ -1,0 +1,55 @@
+com.insights.app-ui-geometry-release-0 C:\Users\arifs\.gradle\caches\transforms-4\0023ffd8a070dd882a5d262f30ff7ddb\transformed\ui-geometry-release\res
+com.insights.app-customview-poolingcontainer-1.0.0-1 C:\Users\arifs\.gradle\caches\transforms-4\08da13513b3db5bfe66e5a3aed635371\transformed\customview-poolingcontainer-1.0.0\res
+com.insights.app-ui-test-manifest-1.7.0-2 C:\Users\arifs\.gradle\caches\transforms-4\0ad9cda8e224328815d2008482071e21\transformed\ui-test-manifest-1.7.0\res
+com.insights.app-savedstate-1.2.1-3 C:\Users\arifs\.gradle\caches\transforms-4\109e2115545b898218c967b81a19c645\transformed\savedstate-1.2.1\res
+com.insights.app-ui-text-release-4 C:\Users\arifs\.gradle\caches\transforms-4\120cba67ac728f58921b33cf21590994\transformed\ui-text-release\res
+com.insights.app-animation-core-release-5 C:\Users\arifs\.gradle\caches\transforms-4\16ee6aa20dd4e15c0484838fc1effd71\transformed\animation-core-release\res
+com.insights.app-ui-graphics-release-6 C:\Users\arifs\.gradle\caches\transforms-4\2f2e09dd7965a5aa1a1e332be080562a\transformed\ui-graphics-release\res
+com.insights.app-core-ktx-1.13.1-7 C:\Users\arifs\.gradle\caches\transforms-4\308fa0ed1502965bc26f4870e5ce50c8\transformed\core-ktx-1.13.1\res
+com.insights.app-runtime-release-8 C:\Users\arifs\.gradle\caches\transforms-4\3364deec5dd031297ffe41707f7e41ce\transformed\runtime-release\res
+com.insights.app-runtime-saveable-release-9 C:\Users\arifs\.gradle\caches\transforms-4\38da8e05c94790885167a8896dbf0b85\transformed\runtime-saveable-release\res
+com.insights.app-foundation-layout-release-10 C:\Users\arifs\.gradle\caches\transforms-4\3c9df2c04d6db6857729110167863bfe\transformed\foundation-layout-release\res
+com.insights.app-lifecycle-livedata-core-2.8.4-11 C:\Users\arifs\.gradle\caches\transforms-4\4102733f48e72359032867ebcaffa656\transformed\lifecycle-livedata-core-2.8.4\res
+com.insights.app-annotation-experimental-1.4.1-12 C:\Users\arifs\.gradle\caches\transforms-4\50a5c348f42b2424496228d4111ae0e3\transformed\annotation-experimental-1.4.1\res
+com.insights.app-material-release-13 C:\Users\arifs\.gradle\caches\transforms-4\516c5e7cc0f6d0f20cc631c24ddc27e2\transformed\material-release\res
+com.insights.app-lifecycle-runtime-release-14 C:\Users\arifs\.gradle\caches\transforms-4\53b64703404e7588319085528a2521ef\transformed\lifecycle-runtime-release\res
+com.insights.app-animation-release-15 C:\Users\arifs\.gradle\caches\transforms-4\5451469783acbaf38a95b7ba1e89410d\transformed\animation-release\res
+com.insights.app-material3-release-16 C:\Users\arifs\.gradle\caches\transforms-4\55d7ee19c722cc12b4da7e7373252379\transformed\material3-release\res
+com.insights.app-navigation-common-2.8.0-17 C:\Users\arifs\.gradle\caches\transforms-4\657cb314f3b61841969b313133f2f5c0\transformed\navigation-common-2.8.0\res
+com.insights.app-navigation-common-ktx-2.8.0-18 C:\Users\arifs\.gradle\caches\transforms-4\6d41a8193aea91bed8bcaf09257a95a5\transformed\navigation-common-ktx-2.8.0\res
+com.insights.app-ui-tooling-release-19 C:\Users\arifs\.gradle\caches\transforms-4\6fc63f9472a761025db48b7446dbf713\transformed\ui-tooling-release\res
+com.insights.app-lifecycle-viewmodel-compose-release-20 C:\Users\arifs\.gradle\caches\transforms-4\7164175b686e7a7679b68cc8359c7b55\transformed\lifecycle-viewmodel-compose-release\res
+com.insights.app-graphics-path-1.0.1-21 C:\Users\arifs\.gradle\caches\transforms-4\72422b0cd2b49cf6d66fb7015fca8b82\transformed\graphics-path-1.0.1\res
+com.insights.app-activity-1.9.2-22 C:\Users\arifs\.gradle\caches\transforms-4\75cf77986440b386b5a7f97ee2b9bc76\transformed\activity-1.9.2\res
+com.insights.app-lifecycle-viewmodel-release-23 C:\Users\arifs\.gradle\caches\transforms-4\79257f42707a2dd05ab0b97b2dbba411\transformed\lifecycle-viewmodel-release\res
+com.insights.app-foundation-release-24 C:\Users\arifs\.gradle\caches\transforms-4\7bbfb66771f19b866197c193c55b3efe\transformed\foundation-release\res
+com.insights.app-navigation-runtime-2.8.0-25 C:\Users\arifs\.gradle\caches\transforms-4\89347a5c5f5f02eff60353f4b45a0dde\transformed\navigation-runtime-2.8.0\res
+com.insights.app-ui-tooling-data-release-26 C:\Users\arifs\.gradle\caches\transforms-4\896e91485e9333390798f14ecda4f7e4\transformed\ui-tooling-data-release\res
+com.insights.app-navigation-runtime-ktx-2.8.0-27 C:\Users\arifs\.gradle\caches\transforms-4\8ddce17bad25f312a4f741154e330843\transformed\navigation-runtime-ktx-2.8.0\res
+com.insights.app-material-icons-core-release-28 C:\Users\arifs\.gradle\caches\transforms-4\8ec9024f8204cdf8faaf1e4e05d322f6\transformed\material-icons-core-release\res
+com.insights.app-startup-runtime-1.1.1-29 C:\Users\arifs\.gradle\caches\transforms-4\92228ed329748f408c50eae028d51717\transformed\startup-runtime-1.1.1\res
+com.insights.app-profileinstaller-1.3.1-30 C:\Users\arifs\.gradle\caches\transforms-4\94959d596f66a9c2670e08103cd5cf0a\transformed\profileinstaller-1.3.1\res
+com.insights.app-core-1.13.1-31 C:\Users\arifs\.gradle\caches\transforms-4\96f3790604646dc7fef5a36bfe630b0a\transformed\core-1.13.1\res
+com.insights.app-material-ripple-release-32 C:\Users\arifs\.gradle\caches\transforms-4\a79c5a11b5ecb5341971f633983b9a67\transformed\material-ripple-release\res
+com.insights.app-emoji2-1.3.0-33 C:\Users\arifs\.gradle\caches\transforms-4\b0deae2b976dc8038c9239f812fa0c7b\transformed\emoji2-1.3.0\res
+com.insights.app-savedstate-ktx-1.2.1-34 C:\Users\arifs\.gradle\caches\transforms-4\b5516524f730c0ad85d280abd7f00569\transformed\savedstate-ktx-1.2.1\res
+com.insights.app-lifecycle-process-2.8.4-35 C:\Users\arifs\.gradle\caches\transforms-4\ba56af178f4d3081c490ad63f67f3c59\transformed\lifecycle-process-2.8.4\res
+com.insights.app-ui-release-36 C:\Users\arifs\.gradle\caches\transforms-4\bcd40699566c595f1278ad525d93d02e\transformed\ui-release\res
+com.insights.app-activity-compose-1.9.2-37 C:\Users\arifs\.gradle\caches\transforms-4\bde273ba6ec41b8ea3a6ce4478a14eff\transformed\activity-compose-1.9.2\res
+com.insights.app-lifecycle-runtime-ktx-release-38 C:\Users\arifs\.gradle\caches\transforms-4\cb67ef6811c2d84a114f1d46c2ec4f48\transformed\lifecycle-runtime-ktx-release\res
+com.insights.app-material-icons-extended-release-39 C:\Users\arifs\.gradle\caches\transforms-4\cd33f575c0e742d877a7f5d6ff7c6542\transformed\material-icons-extended-release\res
+com.insights.app-activity-ktx-1.9.2-40 C:\Users\arifs\.gradle\caches\transforms-4\cdf8da85a5219008d58f943470e5e00e\transformed\activity-ktx-1.9.2\res
+com.insights.app-lifecycle-runtime-compose-release-41 C:\Users\arifs\.gradle\caches\transforms-4\d01fdf5cc0da3b2464c078168164484f\transformed\lifecycle-runtime-compose-release\res
+com.insights.app-navigation-compose-2.8.0-42 C:\Users\arifs\.gradle\caches\transforms-4\d293726e3be38ba962309024e1df61a8\transformed\navigation-compose-2.8.0\res
+com.insights.app-lifecycle-viewmodel-ktx-2.8.4-43 C:\Users\arifs\.gradle\caches\transforms-4\d3841ac0b92eea4ef0a3d095b149bfb0\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.insights.app-core-runtime-2.2.0-44 C:\Users\arifs\.gradle\caches\transforms-4\d6f951995121dac2c767300f1f8f0adb\transformed\core-runtime-2.2.0\res
+com.insights.app-ui-util-release-45 C:\Users\arifs\.gradle\caches\transforms-4\d8857866f460b6bcd5bb43c77a4570e0\transformed\ui-util-release\res
+com.insights.app-ui-tooling-preview-release-46 C:\Users\arifs\.gradle\caches\transforms-4\e5d9a366bdaa3c867960ab53aa6707df\transformed\ui-tooling-preview-release\res
+com.insights.app-lifecycle-viewmodel-savedstate-2.8.4-47 C:\Users\arifs\.gradle\caches\transforms-4\ec0a48c9d9fcc5d84bcc2274b502b571\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.insights.app-ui-unit-release-48 C:\Users\arifs\.gradle\caches\transforms-4\fb64aee75f28d8ad2236dda90693105b\transformed\ui-unit-release\res
+com.insights.app-resValues-49 C:\Users\arifs\AndroidStudioProjects\insights-app-kotlin (2)\insights-app\app\build\generated\res\resValues\debug
+com.insights.app-packageDebugResources-50 C:\Users\arifs\AndroidStudioProjects\insights-app-kotlin (2)\insights-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.insights.app-packageDebugResources-51 C:\Users\arifs\AndroidStudioProjects\insights-app-kotlin (2)\insights-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.insights.app-merged_res-52 C:\Users\arifs\AndroidStudioProjects\insights-app-kotlin (2)\insights-app\app\build\intermediates\merged_res\debug
+com.insights.app-debug-53 C:\Users\arifs\AndroidStudioProjects\insights-app-kotlin (2)\insights-app\app\src\debug\res
+com.insights.app-main-54 C:\Users\arifs\AndroidStudioProjects\insights-app-kotlin (2)\insights-app\app\src\main\res
